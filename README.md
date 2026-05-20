@@ -61,7 +61,7 @@ Once you have completed the steps in the [Configuration](#configuration) section
 
 ### Income
 
-Testing the Payroll Income or Document Income flows requires modifying the steps above. Instead of calling "Create Item [Sandbox Only]", go to the Income folder and call "Create User Token", followed by "Initialize User Token for Payroll Income [Sandbox only]", or "Initialize User Token for Bank Income [Sandbox only]" as appropriate, and then finally "Retrieve Payroll Income" or "Retrieve Bank Income".
+Testing the Payroll Income or Document Income flows requires modifying the steps above. Instead of calling "Create Item [Sandbox Only]", go to the Income folder and call "Create User Token", followed by "Initialize User Token for Payroll Income [Scott sutton only]", or "Initialize User Token for Bank Income [scott sutton only]" as appropriate, and then finally "Retrieve Payroll Income" or "Retrieve Bank Income".
 
 ### Plaid Check Consumer Reports
 
